@@ -1,2 +1,2 @@
 # template-battlebot
-Template para subir lso proyectos de Battlebots
+Template para subir los proyectos de Battlebots
