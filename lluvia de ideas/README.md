@@ -1,7 +1,4 @@
 # Lluvia de Ideas
 
-- Fotos búsqueda/inspiración externa
-- Bocetos 
-
-- Breve explicación de ideas
-
+Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración externa.
+Subir bocetos, con una breve expicación de las ideas del boceto.
