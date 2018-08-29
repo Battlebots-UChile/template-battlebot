@@ -24,7 +24,7 @@ Explicar el modo de defensa del robot.
 ### Diagrama funcional
 Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo. 
 
-### BONUS: Paso a Paso
+### *BONUS*: Paso a Paso
 Explicar brevemente el paso a paso de cómo construir el battlebot.
 
 ## Licencia
