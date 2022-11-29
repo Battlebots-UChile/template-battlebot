@@ -7,7 +7,7 @@
 
 
 ## Integrantes
-- <Integrante 1 - <Facultad>
+- <Integrante 1> - <Facultad>
 - <Integrante 2> - <Facultad>
 - <Integrante 3> - <Facultad>
 - <Integrante 4> - <Facultad>
