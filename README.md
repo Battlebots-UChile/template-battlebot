@@ -1,7 +1,11 @@
 # <Título del proyecto> - <Año>
 <Todo lo que esté entre llaves debe ser editado por ustedes>
+
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
+### Historia del Battlebot
+<Contar la historia de vida de su battlebot.>
+  
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
@@ -12,9 +16,7 @@
 
 
 ## Descripción del proyecto
-### Historia del Battlebot
-<Contar la historia de vida de su battlebot.>
-
+  
 ### Estrategia utilizada
   
 #### Ofensiva
