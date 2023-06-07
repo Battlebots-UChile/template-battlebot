@@ -1,3 +1,3 @@
 # Código de la Aplicación
 
-Subir archivo **.apk** y código de la APK ([descargar desde acá](http://appinventor.mit.edu/explore/support/sharing-code.html))
+Subir archivo **.aia** de la aplicación ([descargar desde acá](http://appinventor.mit.edu/explore/support/sharing-code.html)).
